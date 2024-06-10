@@ -1,0 +1,74 @@
+{
+    "name": "Annotation",
+    "maps": [
+        {
+            "name": "HMD",
+            "id": "c667ac3f-0d85-461a-b44e-920e0ce5a1bc",
+            "actions": [
+                {
+                    "name": "SwitchAnnotationType",
+                    "type": "Button",
+                    "id": "1792a176-50bf-4454-a503-1b6b790e98e7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Activate/DeactivateTimePortal",
+                    "type": "Button",
+                    "id": "c5a03d10-c018-494a-b095-d583234c518f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "CreateGeneralAnnotation",
+                    "type": "Button",
+                    "id": "cf2222f5-9bcf-486d-a03d-0350bfe11c2c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "76e8684f-a4d7-44e9-b70c-cc12b315dd8c",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SwitchAnnotationType",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "48edbe18-88e6-43c6-8594-edae2cae8c7b",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Activate/DeactivateTimePortal",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "889695ac-e316-42b6-82bb-1a2a434234cc",
+                    "path": "<XRController>{RightHand}/gripButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CreateGeneralAnnotation",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

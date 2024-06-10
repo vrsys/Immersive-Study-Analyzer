@@ -1,0 +1,13 @@
+
+99.9375 0 0
+
+---------------------------Sound IDs------------------------------
+1,
+---------------------------Generic IDs------------------------------
+
+---------------------------Transform IDs------------------------------
+
+---------------------------DTO Layouts------------------------------
+TransformDTO: int id;float t;float lp[3];float lr[4];float ls[3];float gp[3];float gr[4];float gs[3];int act;int p_id;int layer = 0;
+SoundDTO: int id;float t;float s_t;float e_t;int s_n;int s_i;int s_r;int c_n;int c_go_id;float s_d[4800];int layer = 0;
+genericDTO: int id;float t;int i[10];float f[10];char c[10];int layer = 0;

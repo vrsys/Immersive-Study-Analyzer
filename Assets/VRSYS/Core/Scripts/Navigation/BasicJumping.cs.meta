@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f5bb4827e313c4f4e8905753b6d6ed80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - avatarPrefab: {fileID: 58528523657214712, guid: 9d7c16ebe6798c44f854006aacf18f78, type: 3}
+  - jumpingCirclePrefab: {fileID: 8449616628379461700, guid: 93e6086c53d20d24e9eaea611025caad, type: 3}
+  - jumpingArrowRingPrefab: {fileID: 8957108357745784780, guid: 4643bc16e4342f440837a63f13690e84, type: 3}
+  - avatarNoAccessMaterial: {fileID: 2100000, guid: afd3cd35d1f097948a74712e24329ee5, type: 2}
+  - previewMaterial: {instanceID: 0}
+  - fadeMaterial: {instanceID: 0}
+  - jumpingRay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

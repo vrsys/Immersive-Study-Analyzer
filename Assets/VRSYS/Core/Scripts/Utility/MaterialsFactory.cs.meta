@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2b445a0cc823abd46a9ef7ae982d2b6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - avatarPrefab: {instanceID: 0}
+  - targetPrefab: {instanceID: 0}
+  - axisPrefab: {instanceID: 0}
+  - axisMarkerPrefab: {instanceID: 0}
+  - axisCirclePrefab: {instanceID: 0}
+  - axisNoAccessMaterial: {instanceID: 0}
+  - avatarNoAccessMaterial: {instanceID: 0}
+  - targetRenderer: {instanceID: 0}
+  - jumpingRay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
