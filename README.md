@@ -1,6 +1,6 @@
 ﻿# Immersive Study Analyzer: Collaborative Immersive Analysis of Recorded Social VR Studies
 ![Overview](Images/Overview.jpg)
-This is the Unity implementation of the Immersive Study Analyzer (ISA) system which enables recording of social VR studies and subsequent collaborative analysis in virtual reality (VR).
+This is the open-source Unity implementation of the Immersive Study Analyzer (ISA) system which enables recording of social VR studies and subsequent collaborative analysis in virtual reality (VR).
 Recorded participant behaviour can be collaboratively coded (annotated) and interactively analyzed using analysis queries.
 To support phases of loose and tightly coupled collaboration analysts can independently navigate in playback time.
 Visualisations and techniques such as the time portal support collaboration between users located at different temporal positions.
@@ -42,6 +42,7 @@ Setup:
    - Open the example scene located at "Assets/VRSYS/Recording/Scenes/SimpleNetworkScene.unity".
    - Press play in the editor.
    - During the first start, performance might be slow for a couple of seconds as the radial menu gets generated.
+
 
 6. Create or join a lobby 
     - Specify your username, color, the device type (BaseAnalysisHMD or AdvancedAnalysisHMD) and the room you want to join/create.
