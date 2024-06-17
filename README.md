@@ -91,7 +91,7 @@ Setup:
      - In the image above, the annotations corresponds to the following queries: red = velocity(a)>t, orange = velocity(b)<t, yellow = velocity(a)>t | velocity(b) > t
      - The trash can (dark blue) can be used to delete all compound queries as well as their results.
    
-
+<!---
 ## BibTeX Citation
 
 If you use the ISA system or the recording and analysis plugin of the ISA system in a scientific publication, we would appreciate using the following citations:
@@ -106,3 +106,4 @@ If you use the ISA system or the recording and analysis plugin of the ISA system
     title     = {Immersive Study Analyzer: Collaborative Immersive Analysis of Recorded Social VR Studies},
 }
 ```
+-->
