@@ -90,20 +90,18 @@ Setup:
      ![QueryResults](Images/QueryResults.png)
      - In the image above, the annotations corresponds to the following queries: red = velocity(a)>t, orange = velocity(b)<t, yellow = velocity(a)>t | velocity(b) > t
      - The trash can (dark blue) can be used to delete all compound queries as well as their results.
+
    
-<!---
 ## BibTeX Citation
-
 If you use the ISA system or the recording and analysis plugin of the ISA system in a scientific publication, we would appreciate using the following citations:
-
 ```
 @article{Lammert2024,
-    doi       = {XXXX/XXXX},
-    url       = {https://doi.org/XXXX/XXXX},
+    doi       = {10.1109/TVCG.2024.3456146},
+    url       = {https://doi.org/10.1109/TVCG.2024.3456146},
     year      = {2024},
-    publisher = {IEEE Computer Society},
-    author    = {Anton Lammert, Gareth Rendle, Felix Immohr, Annika Neidhardt, Karlheinz Brandenburg, Alexander Raake, and Bernd Froehlich},
+    journal={IEEE Transactions on Visualization and Computer Graphics}, 
+    author={Lammert, Anton and Rendle, Gareth and Immohr, Felix and Neidhardt, Annika and Brandenburg, Karlheinz and Raake, Alexander and Froehlich, Bernd},
     title     = {Immersive Study Analyzer: Collaborative Immersive Analysis of Recorded Social VR Studies},
 }
+
 ```
--->
