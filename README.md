@@ -5,7 +5,7 @@ Recorded participant behaviour can be collaboratively coded (annotated) and inte
 To support phases of loose and tightly coupled collaboration analysts can independently navigate in playback time.
 Visualisations and techniques such as the time portal support collaboration between users located at different temporal positions.
 The plugin for recording, playback and analysis is made open source [here](https://github.com/vrsys/Recording-And-Analysis-Plugin).
-For further information we refer to our paper (linked below).
+For further information we refer to our paper ([Preprint](https://www.uni-weimar.de/fileadmin/user/fak/medien/professuren/Virtual_Reality/documents/publications/2024_Collaborative_Immersive_Analysis_of_Social_Virtual_Reality_Studies_Preprint.pdf), bibtex below).
 
 To enable multi-user VR interactions our system builds on the [Photon](https://www.photonengine.com/pun) version of the Open-Source [vrsys-core](https://github.com/vrsys/vrsys-core) project.
 For the visualisation of outlines the [QuickOutline](https://github.com/chrisnolet/QuickOutline) implementation of Chris Nolet is used.
